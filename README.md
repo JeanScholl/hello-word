@@ -1,5 +1,4 @@
-# hello-word
-Meu primeiro projeto
+
 # hello-word
 Meu primeiro projeto
 
